@@ -1,4 +1,4 @@
-# PROJECT: Python vs R for Data Analytics 
+# PROJECT: Python vs R
 
 This project aims to compare the leading languages for data science and data analytics, in order to inform scientists, analysts, and students in their choice to invest in either language. The project comprises secondary research and empirical methods; besides exploring the industry landscape surrounding the two languages, the project seeks to examine both languages via complete code samples of common tasks within the Data Analytics process. The following stages are in focus: 
 - Extraction: web scraping
