@@ -8,3 +8,5 @@ This project aims to compare the leading languages for data science and data ana
 Each task will be conducted in both R and Python. At the end of the project, a presentation will be produced to compare relevant snippets and outputs line-by-line, with highlight on differences in syntax and paradigm.
 
 Each example will be "standalone". This means that any future reader will gain an adequate understanding of the datasets used and the code needed to replicate the task/activity in full.
+
+![Python_logo](https://i.ibb.co/qx75BWz/python-logo.jpg)
