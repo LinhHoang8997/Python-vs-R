@@ -1,6 +1,6 @@
 # PROJECT: Python vs R
 <p align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width=170> 
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width=180> 
 </p>
 <p align="center">
   <img src="https://glasstypewriter.files.wordpress.com/2015/11/versus-vs.png" height=35>
