@@ -9,6 +9,8 @@
   <img src="https://i.ibb.co/mCbV92Y/c3b7ed5d007115f23b737150df873247.png" width=80>
 </p>
 
+## INTRODUCTION
+
 This project aims to compare the leading languages for data science and data analytics, in order to inform scientists, analysts, and students in their choice to invest in either language. The project comprises secondary research and empirical methods; besides exploring the industry landscape surrounding the two languages, the project seeks to examine both languages via complete code samples of common tasks within the Data Analytics process. The following stages are in focus: 
 - Extraction: web scraping
 - Data preparation: cleaning and wrangling 
@@ -18,4 +20,10 @@ Each task will be conducted in both R and Python. At the end of the project, a p
 
 Each example will be "standalone". This means that any future reader will gain an adequate understanding of the datasets used and the code needed to replicate the task/activity in full.
 
+## PRELIMINARY COMPARISON
 
+This visualization was made in Tableau Desktop. [Here](https://public.tableau.com/views/PythonandR-Kaggle-Dontdie/Infograph?:embed=y&:display_count=yes) is link to the Interactive Viz.
+
+<p align="center">
+  <img src="https://i.ibb.co/zbCdxCd/Infograph.png" alt="Tableau Graphic - Python vs R" border="0" width=100%>
+</p>
