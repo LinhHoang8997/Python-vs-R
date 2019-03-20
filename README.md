@@ -24,6 +24,9 @@ Each example will be "standalone". This means that any future reader will gain a
 
 This visualization was made in Tableau Desktop. [Here](https://public.tableau.com/views/PythonandR-Kaggle-Dontdie/Infograph?:embed=y&:display_count=yes) is link to the Interactive Viz.
 
-<p align="center">
-  <img src="https://i.ibb.co/zbCdxCd/Infograph.png" alt="Tableau Graphic - Python vs R" border="0" width=100%>
+<p align="left">
+  <img src="https://i.ibb.co/72kBW5N/Infograph-1-cr.jpg" alt="Infograph-1-cr" border="0" width=450>
 </p>
+
+## EMPIRICAL COMPARISON
+Final Comparison Set coming by April 24.
