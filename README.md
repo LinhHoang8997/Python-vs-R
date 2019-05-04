@@ -24,7 +24,7 @@ Each example will be "standalone". This means that any future reader will gain a
 
 This visualization was made in Tableau Desktop. [Here](https://public.tableau.com/views/PythonandR-Kaggle-Dontdie/Infograph?:embed=y&:display_count=yes) is link to the Interactive Viz.
 
-<p align="left">
+<p align="left" style="border: 1px">
   <img src="https://i.ibb.co/F7mr02K/Screenshot-27.png" alt="Infograph-1-cr" border=1 width=450>
 </p>
 
