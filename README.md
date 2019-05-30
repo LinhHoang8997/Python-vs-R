@@ -41,13 +41,13 @@ Between Python and R:
 At least 19% of Python users are software engineers.  
 - In comparision to Python, R users are more evenly distributed across disciplines and fields. 
 It also sees a greater concentration of Data Scientists (30%) and Data Analysts (16%).
-- R generally sees much fewer commits and contributions on Github repos than Python. This may explained by the difference in size between Python and R communities. **ggplot2** is noteworthy due to having as large a presence as a major Python package on Stackoverflow
+- R generally sees much fewer commits and contributions on Github repos than Python. This may explained by the difference in size between Python and R communities.  `ggplot2` is noteworthy due to having as large a presence as a major Python package on Stackoverflow
 
 ## EMPIRICAL COMPARISON
 I was responsible for most of the comparative samples for this project except the Webscraping module and a section within Data Wrangling. 
 
 Below are my observations on the difference between the two languages, based on work on my modules:
-- Exploring features/fields in R is more intuitive thanks to the str() function in base R. Python has pandas's info(), but it provides less information. 
+- Exploring features/fields in R is more intuitive thanks to the `str()` function in base R. Python has pandas's `info()`, but it provides less information. 
 - readr in R transform columns from csv files into strict categories, creating greater ease for new users later in the process. Python, with pandas, will code the data type of non-numeric variables as object, obfuscating columns with mixed data and errors. 
 - Python runs statistical and machine learning models much faster than R does. For instance, RandomForest runs for 6 times longer in R.
 - Python's Object-oriented structured allows intuitive method chaining and greater readability. 
